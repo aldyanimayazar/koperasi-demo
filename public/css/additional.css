@@ -1,0 +1,20 @@
+.wrapper-copyright {
+	padding:15px 0px;
+	font-size: 12px;
+}
+
+.wrapper-bottom-login {
+	background: #eaeaea;
+}
+
+.logo-koperasi {
+	margin-bottom: 35px;
+}
+
+#wrapper .sidebar {
+	background-color: #0371a9 !important;
+}
+
+.sidebar .nav > li > a {
+	color: #fff;
+}
